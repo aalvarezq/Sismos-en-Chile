@@ -1,4 +1,2 @@
 # Sismos-en-Chile
-Proyecto final 4Geeks
-
-Busquemos propuestas para este proyecto
+Analisis Sismos entre 2016 al 2024
